@@ -1,6 +1,6 @@
 // Script para cálcular preço médio de sua carteira de investimentos
 // Dúvidas consulte o artigo: https://bominvest.blogspot.com/2020/04/como-calcular-preco-medio-da-minha.html
-// Guilherme Ferreira
+// Guilherme Henrique dos Santos Ferreira
 
 function CalcularPM(pmAnt, quantidadeAnt, taxas, quantidade, preco = 0)
 {
